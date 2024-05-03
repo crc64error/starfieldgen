@@ -25,7 +25,7 @@ StarGen PHP is an open-source project designed to generate dynamic, visually app
 
 3. Adjust the various values in the script to try other variations.
 
-4. Load http://localhost/starfieldgen/stargen.php to try it directly.
+4. Load localhost/starfieldgen/stargen.php to try it directly.
 
 Or
 
