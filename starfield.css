@@ -7,9 +7,9 @@ body, html {
 }
 
 body {
-    background-image: url('../StarGen.php'); /* Adjust the path as necessary */
+    background-image: url('../stargen.php'); /* Adjust the path as necessary in relation to you directory setup */
     /* background-size: cover;  Cover the entire area of the element */
-    background-repeat: repeat; /* Prevent the background from repeating */
+    background-repeat: repeat; /* The generated image is not really tilable.  But even a 2560x2560 files is only ~250kb. So, it does not matter. */
 }
 
 #starfield {
