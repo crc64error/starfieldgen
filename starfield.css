@@ -1,0 +1,19 @@
+body, html {
+    margin: 0; 
+    padding: 0; 
+    height: 100%; 
+    overflow: hidden;
+    background-color: rgb(3, 5, 11);
+}
+
+body {
+    background-image: url('../StarGen.php'); /* Adjust the path as necessary */
+    /* background-size: cover;  Cover the entire area of the element */
+    background-repeat: repeat; /* Prevent the background from repeating */
+}
+
+#starfield {
+    position: absolute; 
+    width: 100%; 
+    height: 100%; 
+}
